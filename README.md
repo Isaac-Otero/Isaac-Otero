@@ -1,3 +1,4 @@
+Isaac Otero's User Page
 - 👋 Hi, I’m @Isaac-Otero
 - 👀 I’m interested in UI/UX, Front and Back end engineering!
 - 🌱 I’m currently studying at UCSD as a cognitive science major specializing in design and interaction with a computer science minor
