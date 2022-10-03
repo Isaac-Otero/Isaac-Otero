@@ -14,6 +14,8 @@ some git commands I recently relearned:
 git status
 git branch
 ```
+[Click here for best chips](#best-chips)  
+
 ### Best Chips 
 I think hot cheetos are the best chips
 require "Chips" 
